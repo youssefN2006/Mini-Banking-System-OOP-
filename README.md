@@ -18,6 +18,7 @@ File handling
 Basic system design using OOP concepts
 
 How to Run
+
 Option 1: Using IntelliJ IDEA
 Open the project in IntelliJ IDEA.
 Make sure the accounts.txt and transactions.txt files are in the project root directory.
